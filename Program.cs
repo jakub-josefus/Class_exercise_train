@@ -48,6 +48,7 @@ namespace TestTrain
             druhyVlak.ListReservedChairs();
             Console.WriteLine("Kompletní Výpis\n");
             Console.WriteLine(druhyVlak.ToString());
+            Console.WriteLine("ene");
         }
     }
 }
